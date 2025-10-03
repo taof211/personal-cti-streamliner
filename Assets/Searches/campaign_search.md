@@ -1,3 +1,4 @@
+```bash
 (
   # --- 1. Core Campaign Concepts ---
   intitle:/\b(campaign|operation)\b/i OR
@@ -40,3 +41,4 @@
   # --- 5. Common Key Words ---
   intitle:/\b(cyberattack|breach|espionage)\b/i
 )
+```
