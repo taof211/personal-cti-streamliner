@@ -9,7 +9,7 @@
   intitle:/"ransomware campaign"/i OR
   intitle:/"phishing campaign"/i OR
 
-  # --- 2. Known Cirtical Activities and Events ---
+  # --- 2. Known Critical Activities and Events ---
   intitle:/SolarWinds/i OR
   intitle:/Stuxnet/i OR
   intitle:/NotPetya/i OR
