@@ -1,3 +1,4 @@
+```bash
 (
   # --- 1. Core Vulnerability Terms ---
   intitle:/CVE-\d{4,}-\d+/i OR
@@ -49,3 +50,4 @@
   intitle:/"patch management"/i OR
   intitle:/\b(patch|mitigation)\b/i
 )
+```
