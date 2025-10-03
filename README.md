@@ -1,6 +1,6 @@
 # Personal Cyber Threat Intelligence (CTI) Aggregator
 
-![Screenshot of the FreshRSS Dashboard](./assets/dashboard-screenshot.png)
+![Screenshot of the FreshRSS Dashboard](./assets/Page_Screenshot.jpg)
 
 A streamlined, self-hosted system for aggregating, filtering, and categorizing high-value CTI feeds to accelerate threat research and learning.
 
