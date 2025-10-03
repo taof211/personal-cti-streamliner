@@ -9,7 +9,6 @@
       <outline text="ACSC - Advisories" type="rss" xmlUrl="https://www.cyber.gov.au/rss/advisories" htmlUrl="https://www.cyber.gov.au/" description="ACSC - Recent Advisories"/>
       <outline text="ACSC - Alerts" type="rss" xmlUrl="https://www.cyber.gov.au/rss/alerts" htmlUrl="https://www.cyber.gov.au/" description="ACSC - Recent Alerts"/>
       <outline text="NCSC Intelligence" type="rss" xmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml" htmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml" description="This includes feeds from report"/>
-      <outline text="Sophos Threat Research" type="rss" xmlUrl="https://news.sophos.com/en-us/category/threat-research/feed/" htmlUrl="https://news.sophos.com/en-us/" description="The Sophos Blog"/>
     </outline>
     <outline text="P2 - Vendor Research">
       <outline text="Cisco Talos Intelligence" type="rss" xmlUrl="https://blog.talosintelligence.com/rss/" htmlUrl="https://blog.talosintelligence.com/" description="Talos intelligence and world-class threat research team better protects you and your organization against known and emerging cybersecurity threats."/>
@@ -19,6 +18,7 @@
       <outline text="Recorded Future" type="rss" xmlUrl="https://www.recordedfuture.com/feed" htmlUrl="https://www.recordedfuture.com/" description="Strengthen Your Defenses with Threat Intelligence"/>
       <outline text="Securelist Kaspersky Intelligence" type="rss" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com/"/>
       <outline text="Unit 42 Intelligence" type="rss" xmlUrl="https://unit42.paloaltonetworks.com/feed/" htmlUrl="https://unit42.paloaltonetworks.com/" description="Palo Alto Networks"/>
+      <outline text="Sophos Threat Research" type="rss" xmlUrl="https://news.sophos.com/en-us/category/threat-research/feed/" htmlUrl="https://news.sophos.com/en-us/" description="The Sophos Blog"/>
     </outline>
     <outline text="Uncategorized">
       <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
