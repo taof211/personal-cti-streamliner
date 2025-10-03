@@ -60,6 +60,11 @@ This setup is designed for quick, manual filtering rather than automated categor
     * Name the bookmark appropriately (e.g., "Malware Analysis").
     * Repeat this process for all four search query files. You will now have four powerful, one-click filters in your main navigation pane.
 
+    > ### ⚠️ Important Note on Search Queries
+    > The search query files in the `/Assets/Searches` directory contain comments and line breaks for readability and maintainability. **These must be removed before pasting the query into the FreshRSS search bar.**
+    >
+    > **Action:** Please copy the raw query text and manually delete any comment lines and extra line breaks to form a single-line search string. This is necessary to ensure the search functions correctly in FreshRSS. It is recommended to keep the original file format unchanged for future maintenance.
+
 ## My Personal Workflow
 My daily process with this system is analyst-driven:
 
