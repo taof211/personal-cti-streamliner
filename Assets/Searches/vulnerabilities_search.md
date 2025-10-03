@@ -16,7 +16,7 @@
   intitle:/"in-the-wild"/i OR
   intitle:/"actively exploited"/i OR
 
-  # --- 3. Tehcniques Targeting Vulnerabilities ---
+  # --- 3. Techniques Targeting Vulnerabilities ---
   intitle:/"Remote Code Execution"/i OR
   intitle:/\bRCE\b/i OR
   intitle:/"privilege escalation"/i OR
