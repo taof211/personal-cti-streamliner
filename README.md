@@ -41,7 +41,7 @@ This provides a centralized and clean dashboard for targeted threat intelligence
     ```bash
     docker-compose up -d
     ```
-3.  Navigate to `http://localhost:8080` (or the port you defined) in your browser and complete the initial FreshRSS user setup.
+3.  Navigate to `http://localhost:8889` (or the port you defined) in your browser and complete the initial FreshRSS user setup.
 
 ## Configuration: The Analyst Workflow
 This setup is designed for quick, manual filtering rather than automated categorization.
