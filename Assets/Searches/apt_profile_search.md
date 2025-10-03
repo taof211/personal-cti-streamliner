@@ -1,4 +1,4 @@
-···
+```bash
 (
     # --- 1. High-Confidence Patterns ---
     intitle:/APT\d+/i OR 
@@ -67,4 +67,4 @@
     intitle:/\bIronHusky\b/i OR 
     intitle:/\bNightEagle\b/i
 )
-···
+```
