@@ -72,3 +72,12 @@ My daily process with this system is analyst-driven:
 2.  **Targeted Research:** Instead of browsing all feeds, I use my **Bookmarked Searches** to pull exactly what I need. For instance, if I want the latest research on malware, I simply click the "Malware Analysis" bookmark. This instantly filters thousands of articles across all my P1 and P2 feeds to show only the most relevant reports.
 
 This approach keeps my main feed clean and allows me to conduct targeted research with incredible speed and efficiency.
+
+## Next Steps: The Automated CTI Pipeline
+
+This project serves as a solid foundation for information aggregation. The next logical evolution is to build a complete, end-to-end automated threat intelligence pipeline.
+
+This new project, currently under development, will:
+1.  Use a Python script to extract trusted reports from the FreshRSS instance.
+2.  Leverage **MITRE TRAM** to process unstructured text and extract structured TTPs, malware, and threat actor information.
+3.  Load this structured intelligence into an **OpenCTI** instance to build a dynamic threat knowledge graph.
